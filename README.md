@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Elmin</h1>
 <h3 align="center">Front End Sofware Engineer</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **React.js,Typescript**
 
 - 💬 Ask me about **CSS/frameworks,JS,Typescript,React**
 
