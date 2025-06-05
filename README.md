@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*veRna0Vbw1_4OUnzW9rSzA.jpeg" alt="MasterHead" />
-</div>
+
 <h1 align="center">Hi 👋, I'm Elmin</h1>
 <h3 align="center">Front End Sofware Engineer</h3>
 
