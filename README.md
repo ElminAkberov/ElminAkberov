@@ -1,20 +1,100 @@
+# 💫 About Me
 
-<h1 align="center">Hi 👋, I'm Elmin</h1>
-<h3 align="center">Front End Sofware Engineer</h3>
+**I'm Tahir Tahirli, a passionate Full-Stack & Backend Developer** with a background in building scalable microservices, designing robust system architectures, and delivering innovative solutions. I love to push the boundaries of what’s possible with modern technologies, from real-time data applications to AI-powered services.
 
-- 🔭 I’m currently working on **React.js,Typescript**
+- 👯 **Looking to collaborate on**  
+  Exciting and challenging software projects in the web development realm, particularly those requiring real-time data, advanced integrations, or AI/ML components.
 
-- 💬 Ask me about **CSS/frameworks,JS,Typescript,React**
+- 🤝 **Seeking help with**  
+  Discovering new tech stacks and connecting with **investors** for software projects.
 
-- 📫 How to reach me **ekberovelmin04@gmail.com**
+- 🌱 **Currently learning**  
+  **Kubernetes**, **Kafka**, and exploring **design patterns** to craft elegant, maintainable software solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akberov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elmin akberov" height="30" width="40" /></a>
-<a href="https://fb.com/elmin akberov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elmin akberov" height="30" width="40" /></a>
-</p>
+- 💬 **Ask me about**  
+  Full-stack development, designing scalable architectures, real-time applications, microservices, and building responsive user interfaces.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
+---
+
+## 💻 Tech Stack (as Badges)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Services
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
+
+### AI & Advanced
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+---
+ 
+## 🏢 Professional Experience
+
+- **Full-Stack Developer** at **Must Analytics GMBH (Remote)** (2023–Present)  
+  Contributed to large-scale software solutions for global clients such as BWSA, WoodInVision, and BAUEnergy. Specialized in designing backend and frontend architectures, implementing real-time data tracking, AI-powered systems, and advanced permission management.
+
+- **Chief Executive Officer** at **Digital Marketing Solutions Azerbaijan** (2023–2025)  
+  Led a team of designers, developers, and marketing professionals to deliver successful branding and digital solutions. Oversaw 50+ projects for notable organizations, including the Azerbaijan Golf Federation, National Olympic Committee, and Batıgöz Clinic.
+
+- **IT Consultant** at **National Olympic Committee of Azerbaijan** (2022–2023)  
+  Implemented a robust cloud data storage system, trained employees on best practices, and enhanced operational efficiency with modern cloud solutions.
+
+- **Education Mentor** at **Code Academy** (2022–2023)  
+  Taught backend and full-stack development with a focus on ASP.NET Core, React.js, database design, and CI/CD workflows. Mentored students on REST APIs, microservices, and cloud deployment strategies.
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahirli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tahirli_tahirr) 
+
+---
+
+## 🚀 Notable Projects
+
+- **BWSA – Document Management Platform**  
+  Automated document generation using predefined templates and integrated user-friendly course management features.
+
+- **MustScan – OCR & GPT Integration**  
+  Created an OCR pipeline for document data extraction and integrated ChatGPT for a subscription-based user experience.
+
+- **WoodInVision – Forestry Management System**  
+  Replaced legacy workflows with an offline-first mobile app that includes Mapbox integration, real-time user tracking, and GeoJSON rendering.
+
+- **BauEnergy – Tool Management System**  
+  Developed a tool management solution with easy-to-use tracking and data history features.
+
+---
 
 
+### Contact
+- **Phone**: +994 51 321 81 48  
+- **Email**: [tahirli.tahirr@gmail.com](mailto:tahirli.tahirr@gmail.com)
+
+Feel free to reach out if you’d like to discuss project ideas, collaboration opportunities, or anything else. I’m always open to connecting!
+
+---
+
+> _“Stay curious, keep learning, and push the boundaries of what’s possible!”_
+
+<!--
+---
+[![](https://visitcount.itsvg.in/api?id=TAHIRLI&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TAHIRLI&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ -->
