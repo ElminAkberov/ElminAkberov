@@ -1,18 +1,18 @@
 # 💫 About Me
 
-**I'm Tahir Tahirli, a passionate Full-Stack & Backend Developer** with a background in building scalable microservices, designing robust system architectures, and delivering innovative solutions. I love to push the boundaries of what’s possible with modern technologies, from real-time data applications to AI-powered services.
+**I'm Elmin Akberov, a passionate Front-End Developer** focused on building fast, responsive, and user-friendly web applications using modern technologies. I enjoy turning complex ideas into clean, efficient, and scalable interfaces.
 
-- 👯 **Looking to collaborate on**  
-  Exciting and challenging software projects in the web development realm, particularly those requiring real-time data, advanced integrations, or AI/ML components.
+- 👯 Looking to collaborate on
+  Front-end projects using React.js, Next.js, and modern UI frameworks, with strong API integrations and secure authentication systems.
 
-- 🤝 **Seeking help with**  
-  Discovering new tech stacks and connecting with **investors** for software projects.
+- 🤝 Seeking help with
+  Gaining experience in larger, real-world projects and learning more about advanced design patterns and architecture best practices.
 
-- 🌱 **Currently learning**  
-  **Kubernetes**, **Kafka**, and exploring **design patterns** to craft elegant, maintainable software solutions.
+- 🌱 Currently learning
+  Express.js, MongoDB, OAuth 2.0 for building more complete full-stack applications, and improving state management with Redux Toolkit and Zustand.
 
-- 💬 **Ask me about**  
-  Full-stack development, designing scalable architectures, real-time applications, microservices, and building responsive user interfaces.
+- 💬 Ask me about
+  Component-based development with React.js, server-side rendering (SSR) and SEO optimization with Next.js, API integration, mobile-first responsive design, and front-end performance optimization.
 
 ---
 
@@ -39,52 +39,42 @@
 ![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
-### AI & Advanced
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ---
  
 ## 🏢 Professional Experience
 
-- **Full-Stack Developer** at **Must Analytics GMBH (Remote)** (2023–Present)  
-  Contributed to large-scale software solutions for global clients such as BWSA, WoodInVision, and BAUEnergy. Specialized in designing backend and frontend architectures, implementing real-time data tracking, AI-powered systems, and advanced permission management.
+- **Front-End Developer at CRBN Tech (Remote)** (2024–Present)  
+  Developed responsive and interactive web interfaces using React.js and Tailwind CSS. Integrated RESTful APIs (Swagger, FastAPI), implemented secure payment systems with reCAPTCHA, and built AI-based features. Maintained deposit management systems and contributed to      CI/CD pipelines with GitLab.
 
-- **Chief Executive Officer** at **Digital Marketing Solutions Azerbaijan** (2023–2025)  
-  Led a team of designers, developers, and marketing professionals to deliver successful branding and digital solutions. Oversaw 50+ projects for notable organizations, including the Azerbaijan Golf Federation, National Olympic Committee, and Batıgöz Clinic.
+- **Front-End Developer (Intern) at PROSOL** (Dec 2024 – Feb 2025) 
+  Built new UI components with React.js, TypeScript, and Ant Design. Improved application stability and performance by identifying and fixing bugs in a cybersecurity platform. Worked within Agile teams using Jira and Bitbucket, and wrote clean, maintainable code aligned   with documentation standards.
 
-- **IT Consultant** at **National Olympic Committee of Azerbaijan** (2022–2023)  
+- **Front-End Developer (Intern) at OkMedia** (Sep 2024 – Dec 2024)
   Implemented a robust cloud data storage system, trained employees on best practices, and enhanced operational efficiency with modern cloud solutions.
-
-- **Education Mentor** at **Code Academy** (2022–2023)  
-  Taught backend and full-stack development with a focus on ASP.NET Core, React.js, database design, and CI/CD workflows. Mentored students on REST APIs, microservices, and cloud deployment strategies.
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tahirli) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tahirli_tahirr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akberov) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_akberov_e) 
 
 ---
 
 ## 🚀 Notable Projects
 
-- **BWSA – Document Management Platform**  
-  Automated document generation using predefined templates and integrated user-friendly course management features.
-
-- **MustScan – OCR & GPT Integration**  
-  Created an OCR pipeline for document data extraction and integrated ChatGPT for a subscription-based user experience.
-
-- **WoodInVision – Forestry Management System**  
-  Replaced legacy workflows with an offline-first mobile app that includes Mapbox integration, real-time user tracking, and GeoJSON rendering.
-
-- **BauEnergy – Tool Management System**  
-  Developed a tool management solution with easy-to-use tracking and data history features.
+- **4Pay – Payment system**  
+  Collaborated with the back-end team to develop the admin dashboard, landing page, and user form interfaces for the 4Pay payment system. Maintained code quality and
+consistency by following best practices and participating in regular code reviews.
+- **Aloyna.az – Game Sales Platform**  
+  This platform empowers users to efficiently buy and sell games and related digital assets, offering a secure, user-friendly, and streamlined trading experience.
+- **Uniic – Relation based Platform**  
+- **RoyalFinance – Payment system**  
 
 ---
 
 
 ### Contact
-- **Phone**: +994 51 321 81 48  
-- **Email**: [tahirli.tahirr@gmail.com](mailto:tahirli.tahirr@gmail.com)
+- **Phone**: +994 50 621 45 11  
+- **Email**: [ekberovelmin04@gmail.com](mailto:ekberovelmin04@gmail.com)
 
 Feel free to reach out if you’d like to discuss project ideas, collaboration opportunities, or anything else. I’m always open to connecting!
 
