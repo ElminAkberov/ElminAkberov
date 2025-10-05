@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 **I'm Elmin Akberov, a passionate Front-End Developer** focused on building fast, responsive, and user-friendly web applications using modern technologies. I enjoy turning complex ideas into clean, efficient, and scalable interfaces.
 
