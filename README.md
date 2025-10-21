@@ -2,16 +2,16 @@
 
 **I'm Elmin Akberov, a passionate Front-End Developer** focused on building fast, responsive, and user-friendly web applications using modern technologies. I enjoy turning complex ideas into clean, efficient, and scalable interfaces.
 
-- 👯 Looking to collaborate on
+- Looking to collaborate on
   Front-end projects using React.js, Next.js, and modern UI frameworks, with strong API integrations and secure authentication systems.
 
-- 🤝 Seeking help with
+- Seeking help with
   Gaining experience in larger, real-world projects and learning more about advanced design patterns and architecture best practices.
 
-- 🌱 Currently learning
+- Currently learning
   Express.js, MongoDB, OAuth 2.0 for building more complete full-stack applications, and improving state management with Redux Toolkit and Zustand.
 
-- 💬 Ask me about
+- Ask me about
   Component-based development with React.js, server-side rendering (SSR) and SEO optimization with Next.js, API integration, mobile-first responsive design, and front-end performance optimization.
 
 ---
